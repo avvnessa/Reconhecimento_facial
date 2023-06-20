@@ -1,0 +1,6 @@
+Instalação do OpenCV no Windows
+>> abrir o cmd
+>> digitar o comando: pip install opencv-python
+>> Modulos extras: pip install opencv-contrib-python
+Intalar o imutils
+>> pip install imutils
