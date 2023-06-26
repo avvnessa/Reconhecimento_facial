@@ -26,6 +26,7 @@ Apresentaremos os resultados obtidos com o sistema de reconhecimento facial. Ser
 
 - Esse números que aumenta e diminui em cima do quadradinho é o nível de confiança quanto menor o número mais ela se parece com a imagem de teste (isso quer dizer que a pessoa se parece com a que está salva no banco de dados) e quanto maior for o número mais a pessoa difere ou seja uma pessoa diferente. Esse número é frequentemente chamado de "score de confiança" ou "score de probabilidade".
 
+
 (imagens usadas como exemplo) 
 
 https://github.com/avvnessa/Reconhecimento_facial/assets/96122153/17cbf597-cf1e-4a54-9590-c74c90ca5e4a
